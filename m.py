@@ -7,7 +7,7 @@ import datetime
 import os
 import threading
 
-bot = telebot.TeleBot('6375257731:AAHawkSSWgBKamKq9yYED9fXjdX5pJ4guT4')
+bot = telebot.TeleBot('8477166523:AAGakUPgpP_L7izdqwwHhjb2hILK07xlm8Q')
 
 admin_id = ["1151701003"]
 USER_FILE = "users.txt"
